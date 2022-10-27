@@ -1,4 +1,8 @@
 Шветко Роман 021 группа
+bdtest.py.txt Создание баз данных
+python шпора.ipynb.txt Команды Пайтона
+shvetkoromanneiroset.png пример работы нейросетей
+
 
 SELECT COUNT(*) AS TABLE_COUNT - Показывает сколько таблиц
 
